@@ -1,5 +1,5 @@
 # Sistema de habitaciones de un hotel
-Práctica 5 del módulo de Programación del Grado Superior de Diseño de Aplicaciones Web
+__Práctica 5 del módulo de Programación perteneciente al Grado Superior de Diseño de Aplicaciones Web__
 <br><hr>
 Se dispone de la clase Hotel. Se pide: 
 1. Crear la clase Habitación que tenga como atributos el número de habitación, el 
