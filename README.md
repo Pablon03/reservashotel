@@ -18,3 +18,11 @@ pasará el número de habitación y se quedará libre. En caso de que la habitac
 esté libre o no exista el número de habitación, se indicará el error.
 5. Crear un programa principal que cree un Hotel y pruebe los métodos anteriores, 
 implementando el siguiente menú
+```
+.:MENU:.
+1. Realizar check-in.
+2. Realizar check-out.
+3. Consultar información de habitación y hotel.
+4. Salir
+Introduzca la opción deseada.
+```
