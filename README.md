@@ -1,6 +1,7 @@
 # Sistema de habitaciones de un hotel
 _Práctica 5 del módulo de Programación perteneciente al Grado Superior de Diseño de Aplicaciones Web_
 <br><hr>
+## Problema
 Se dispone de la clase Hotel. Se pide: 
 1. Crear la clase Habitación que tenga como atributos el número de habitación, el 
 tipo (simple, doble o triple) y si está ocupada o no.
